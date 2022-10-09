@@ -1,7 +1,7 @@
 # sudofind
 Simple Subdomain Finder &amp; Port Scanner
 
-requirement : Python3 & Nmap
+requirement : Python3(requests, socket, python-nmap) & Nmap
 
 how to run :
 run the sudofind.py in same folder with subdomain.txt
